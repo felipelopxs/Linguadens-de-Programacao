@@ -16,7 +16,7 @@ public class Telefone {
         if (telefone <= 8) {
             System.out.println("Infelizmente esse telefone é invalido!");
         }else if (telefone >9){
-            System.out.println("Telefone validado com sucesso!!");
+            System.out.println("O telefone validado com sucesso!");
         }
     }
 }
